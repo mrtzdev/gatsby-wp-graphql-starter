@@ -5,10 +5,10 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  gatsby-wp-graphql-starter
 </h1>
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+A simple starter to get up and developing quickly with WPGraphQL and Gatsby. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
@@ -20,8 +20,19 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     ```shell
     # create a new Gatsby site using the default starter
-    gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
+    gatsby new <project-name> https://github.com/gatsbyjs/gatsby-starter-default
     ```
+
+1.  **Install WPGraphQL.**
+
+    Install and activate the WPGraphQL plugin in Wordpress
+
+    https://www.wpgraphql.com/
+
+1.  **Configure.**
+
+    Open `gatsby-config.js` and point the URL at your WordPress website. gatsby-source-graphql options.url
+
 
 1.  **Start developing.**
 
