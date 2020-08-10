@@ -28,9 +28,10 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
 1.  **Install WPGraphQL.**
 
-    Install and activate the WPGraphQL plugin in Wordpress
+    Install and activate the WPGraphQL plugin in Wordpress.
 
     https://www.wpgraphql.com/
+    https://docs.wpgraphql.com/getting-started/install-and-activate/
 
 1.  **Configure.**
 
