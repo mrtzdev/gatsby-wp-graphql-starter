@@ -29,6 +29,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     Install and activate the WPGraphQL plugin in Wordpress.
 
     https://www.wpgraphql.com/
+
     https://docs.wpgraphql.com/getting-started/install-and-activate/
 
 1.  **Configure.**
